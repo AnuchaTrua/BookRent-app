@@ -10,7 +10,7 @@ Main function
 - cart
 - Book inventory
 - subscription system
-- checkput system
+- checkout system
 
 
 componenet
